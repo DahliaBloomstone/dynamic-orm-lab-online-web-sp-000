@@ -1,6 +1,6 @@
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
-#The exact same as the other lab except the find_by methold.
+#The exact same as the other lab except the find_by method.
 
 class InteractiveRecord
 
